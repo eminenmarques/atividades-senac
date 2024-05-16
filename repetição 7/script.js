@@ -7,4 +7,3 @@ function clique() {
     document.body.appendChild(elemento);
     }
     }
-    
